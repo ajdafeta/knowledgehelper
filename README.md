@@ -136,7 +136,7 @@ The admin dashboard provides insights into:
 - **Query Analytics**: Most common question types and patterns
 - **User Engagement**: Active users, session duration, and usage frequency
 - **Document Performance**: Most referenced documents and search patterns
-- **System Metrics**: Response times, error rates, and optimization opportunities
+- **System Metrics**: Response times, error rates, and optimisation opportunities
 - **Department Insights**: Usage patterns by organizational department
 
 ## 🔒 Security Features
@@ -159,17 +159,12 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
-
-- **Documentation**: Check the [docs/](docs/) folder for detailed guides
-- **Issues**: Report bugs or request features via GitHub Issues
-- **Discussions**: Use GitHub Discussions for questions and community support
 
 ## 🎯 Use Cases
 
-Perfect for organizations that need to:
+Perfect for organisations that need to:
 
 - **Reduce HR workload** by automating policy questions
 - **Improve employee self-service** for common inquiries
@@ -180,11 +175,9 @@ Perfect for organizations that need to:
 
 ## 🔮 Roadmap
 
+- [ ] Evaluation and Monitoring
 - [ ] Integration with external HR systems
 - [ ] Multi-language support
-- [ ] Advanced document versioning
 - [ ] Slack/Teams integration
-- [ ] Mobile app development
-- [ ] Advanced analytics with ML insights
 
 ---
