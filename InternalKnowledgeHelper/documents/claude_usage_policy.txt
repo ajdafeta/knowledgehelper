@@ -1,0 +1,30 @@
+Claude AI Usage Policy - Document #IT-003
+
+Approved Use Cases:
+- Internal support and documentation queries
+- Code review and technical assistance
+- Meeting notes and summary generation
+- Employee onboarding support
+
+Security Guidelines:
+- Do not share confidential customer data
+- No proprietary code or trade secrets
+- Employee personal information must be anonymized
+- All interactions are logged for compliance
+
+Best Practices:
+- Be specific in your queries for better results
+- Verify important information with human experts
+- Use Claude for assistance, not final decision making
+- Report any inappropriate responses to IT
+
+Data Handling:
+- No sensitive financial data should be processed
+- Customer information requires approval from legal team
+- All Claude interactions are subject to audit
+- Data retention follows company policy
+
+Contact Information:
+- IT Support for technical issues: it-help@company.com
+- Legal questions: legal@company.com
+- Privacy concerns: privacy@company.com
