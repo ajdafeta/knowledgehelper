@@ -1,6 +1,6 @@
 # Enterprise Support Assistant
 
-An intelligent AI-powered internal support chatbot that helps employees quickly find information about company policies, benefits, procedures, and other internal documentation through natural language conversations.
+An intelligent AI-powered internal support chatbot that helps employees quickly find information about company policies, benefits, procedures, and other internal documentation through natural language conversations. Built using Claude Sonnet 4 and Replit.
 
 ![Enterprise Support Assistant](https://img.shields.io/badge/AI-Claude%20Sonnet%204-blue) ![Python](https://img.shields.io/badge/Python-3.11+-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
@@ -188,5 +188,3 @@ Perfect for organizations that need to:
 - [ ] Advanced analytics with ML insights
 
 ---
-
-**Built with ❤️ using Claude Sonnet 4 and modern web technologies**
