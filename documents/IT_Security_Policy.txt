@@ -1,0 +1,73 @@
+IT Security Policy - Document #IT-004
+
+Information Technology Security Guidelines
+
+Password Requirements:
+- Minimum 12 characters in length
+- Must include uppercase, lowercase, numbers, and special characters
+- Password expiry: 90 days for privileged accounts, 180 days for standard users
+- No reuse of last 12 passwords
+- Two-factor authentication required for all systems
+
+Network Security:
+- VPN connection required for remote access
+- Public Wi-Fi usage prohibited for company work
+- Personal devices must be approved before network access
+- Guest network available for visitors
+
+Data Protection:
+- All sensitive data must be encrypted at rest and in transit
+- Data classification levels: Public, Internal, Confidential, Restricted
+- Confidential data requires approval for external sharing
+- Regular data backups performed automatically
+
+Email Security:
+- External email warnings displayed automatically
+- Suspicious attachments and links blocked
+- Phishing simulation training conducted quarterly
+- Report suspicious emails to security@company.com
+
+Software and Applications:
+- Only approved software may be installed
+- Software installation requires IT approval
+- Automatic updates enabled for security patches
+- Personal cloud storage services restricted
+
+Incident Response:
+- Security incidents must be reported immediately
+- Contact security team at security@company.com
+- Do not attempt to resolve security issues independently
+- Incident response team available 24/7
+
+Device Security:
+- Company devices must use full disk encryption
+- Screen locks required with automatic timeout
+- USB ports restricted on sensitive systems
+- Device inventory maintained by IT department
+
+Social Engineering Protection:
+- Verify identity before sharing sensitive information
+- Be cautious of unexpected phone calls requesting information
+- Never share passwords or access credentials
+- Report social engineering attempts to security team
+
+Compliance Requirements:
+- Annual security awareness training mandatory
+- Security audits conducted annually
+- Policy violations may result in disciplinary action
+- Regular penetration testing performed
+
+Remote Work Security:
+- Secure home office setup required
+- Family members cannot access company devices
+- Public spaces discouraged for sensitive work
+- VPN must be active during all work sessions
+
+Contact Information:
+- IT Help Desk: it-help@company.com or (555) 234-5678
+- Security Team: security@company.com or (555) 345-6789
+- Emergency After Hours: (555) 911-HELP
+
+Policy Version: 3.2
+Last Updated: June 2025
+Next Review: December 2025
