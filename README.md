@@ -112,7 +112,7 @@ This project is licensed under the Apache 2.0 License - see the LICENSE file for
 
 ## Roadmap
 
-- Evaluation and Monitoring
+- Evaluation and monitoring
 - Improve chat intelligence
 - Improve response formatting
 - Multi-language support
