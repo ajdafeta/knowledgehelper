@@ -2,8 +2,11 @@
 
 An AI-powered internal support chatbot that helps employees quickly find information about company policies, benefits, procedures, and documentation using Anthropic's Claude API.
 
+![Enterprise Support Assistant](https://img.shields.io/badge/AI-Claude%20Sonnet%204-blue) ![Python](https://img.shields.io/badge/Python-3.11+-green) ![License](https://img.shields.io/badge/License-Apache2.0-yellow)
+
 ## Features
 
+- **Quick Demo**: [Watch here](https://drive.google.com/file/d/1_CM1lLJZNw4sozQfxh_u7vj-J7bM9ULn/view?usp=sharing)
 - **AI-Powered Responses**: Uses Claude 4.0 Sonnet for natural language understanding and comprehensive answers
 - **Complete Document Access**: Claude receives full document content for detailed, accurate responses
 - **Secure Authentication**: File-based authentication with session management and role-based access
@@ -43,8 +46,6 @@ export ANTHROPIC_API_KEY="your-api-key-here"
 ```bash
 python web_app.py
 ```
-
-6. Open http://localhost:5000 in your browser
 
 ### Default Login Credentials
 
@@ -107,8 +108,12 @@ The application uses the Anthropic Claude API for generating responses. Ensure y
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
 
-## Support
+## Roadmap
 
-For questions or issues, please contact your system administrator or IT support team.
+- Evaluation and Monitoring
+- Improve chat intelligence
+- Improve response formatting
+- Multi-language support
+- Voice integration
