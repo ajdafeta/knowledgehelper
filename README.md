@@ -6,14 +6,14 @@ An AI-powered internal support chatbot that helps employees quickly find informa
 
 ## Features
 
-- **Quick Demo**: [Watch here](https://drive.google.com/file/d/1_CM1lLJZNw4sozQfxh_u7vj-J7bM9ULn/view?usp=sharing)
+- **Quick Demo**: [Watch here](https://drive.google.com/file/d/1klXrM69x3tUzXLOJToSltqqMTEdkGMyG/view?usp=sharing)
 - **AI-Powered Responses**: Uses Claude 4.0 Sonnet for natural language understanding and comprehensive answers
 - **Complete Document Access**: Claude receives full document content for detailed, accurate responses
 - **Secure Authentication**: File-based authentication with session management and role-based access
 - **Document Management**: Dynamic processing of company documents from the `/documents/` folder
 - **Conversation Memory**: Maintains chat history and context across user sessions
 - **Admin Dashboard**: Usage analytics and employee management for administrators
-- **Responsive Design**: Professional Bootstrap-based interface optimized for desktop and mobile
+- **Responsive Design**: Professional Bootstrap-based interface optimised for desktop and mobile
 
 ## Quick Start
 
